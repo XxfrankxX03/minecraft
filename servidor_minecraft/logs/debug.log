@@ -7549,3 +7549,50 @@ java.lang.NullPointerException: Element not found: amount
 [14Jun2025 05:57:32.260] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-170, y:115, z:51, dim:minecraft:overworld]
 [14Jun2025 05:57:32.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Your First Grave]
 [14Jun2025 05:57:32.263] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[14Jun2025 05:58:19.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Stone Age]
+[14Jun2025 05:58:28.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Getting an Upgrade]
+[14Jun2025 05:58:46.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 05:58:46.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 05:59:33.202] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/2575, l='ServerLevel[world]', x=-167.18, y=115.91, z=2.84] died: Undead Knight was slain by Foliaath
+[14Jun2025 06:00:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [Stone Age]
+[14Jun2025 06:03:15.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Acquire Hardware]
+[14Jun2025 06:03:15.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [I Found It Underground]
+[14Jun2025 06:03:15.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has reached the goal [Worthy Equipment]
+[14Jun2025 06:03:15.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Apothic Affixes]
+[14Jun2025 06:03:15.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Isn't It Iron Pick]
+[14Jun2025 06:03:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Into Fire]
+[14Jun2025 06:03:46.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 06:03:46.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 06:04:07.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxfrankxX02> es un oergamino
+[14Jun2025 06:04:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [Mutual Aid]
+[14Jun2025 06:04:10.956] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[14Jun2025 06:04:15.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Sucker
+[14Jun2025 06:04:15.601] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-154, y:115, z:59, dim:minecraft:overworld]
+[14Jun2025 06:04:15.608] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[14Jun2025 06:04:40.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [Getting an Upgrade]
+[14Jun2025 06:04:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxfrankxX02> te wa mandar foto
+[14Jun2025 06:08:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Foliaath
+[14Jun2025 06:08:05.398] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-160, y:113, z:26, dim:minecraft:overworld]
+[14Jun2025 06:08:05.411] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[14Jun2025 06:08:46.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 06:08:46.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 06:11:40.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxfrankxX02> te mande a tu chat de whats
+[14Jun2025 06:12:06.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxfrankxX02> cambia las teclas asi como esta en las caps que te mande
+[14Jun2025 06:12:34.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumama3000> yaya mñna dejame avanzar mi casa
+[14Jun2025 06:12:38.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxfrankxX02> xd
+[14Jun2025 06:13:46.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 06:13:46.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jun2025 06:16:57.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [Ambush]
+[14Jun2025 06:16:57.364] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Dr. Michael Jacob'/6472, l='ServerLevel[world]', x=-188.70, y=118.00, z=22.60] died: Dr. Michael Jacob was slain by tumama3000
+[14Jun2025 06:16:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has completed the challenge [He Wasn't So Strong]
+[14Jun2025 06:16:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has reached the goal [Worthy Equipment]
+[14Jun2025 06:16:57.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [Apothic Affixes]
+[14Jun2025 06:17:07.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was scorched to death by tumama3000 using [Jacob's Infernal Wood Blade of the Storm]
+[14Jun2025 06:17:07.813] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-186, y:118, z:18, dim:minecraft:overworld]
+[14Jun2025 06:17:07.818] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[14Jun2025 06:17:39.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Sucker
+[14Jun2025 06:17:39.604] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-188, y:119, z:15, dim:minecraft:overworld]
+[14Jun2025 06:17:39.609] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[14Jun2025 06:18:11.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxfrankxX02> exploremos
+[14Jun2025 06:18:46.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jun2025 06:18:46.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
