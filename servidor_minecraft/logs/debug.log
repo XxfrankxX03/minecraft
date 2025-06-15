@@ -7565,3 +7565,247 @@ java.lang.NullPointerException: Element not found: amount
 [15Jun2025 06:29:58.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has completed the challenge [Village Defender]
 [15Jun2025 06:31:02.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jun2025 06:31:02.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 06:35:43.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Husk
+[15Jun2025 06:35:43.483] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-2771, y:126, z:694, dim:minecraft:overworld]
+[15Jun2025 06:35:43.496] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 06:35:54.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Husk
+[15Jun2025 06:35:54.631] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-2771, y:126, z:694, dim:minecraft:overworld]
+[15Jun2025 06:35:54.643] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 06:35:57.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Husk
+[15Jun2025 06:35:57.080] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-2769, y:127, z:690, dim:minecraft:overworld]
+[15Jun2025 06:35:57.092] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 06:36:00.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Husk
+[15Jun2025 06:36:00.583] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-2770, y:126, z:695, dim:minecraft:overworld]
+[15Jun2025 06:36:00.599] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 06:36:02.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 06:36:02.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 06:38:21.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has completed the challenge [+PARRY]
+[15Jun2025 06:41:02.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 06:41:02.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 06:43:42.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Where Is The Stone Pen?]
+[15Jun2025 06:46:02.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 06:46:02.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 06:46:52.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumama3000> ae
+[15Jun2025 06:47:09.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was squashed by a falling anvil
+[15Jun2025 06:47:09.545] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3116, y:136, z:1017, dim:minecraft:overworld]
+[15Jun2025 06:47:09.546] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 06:48:01.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was blown up by Creeper
+[15Jun2025 06:48:01.387] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3114, y:138, z:1015, dim:minecraft:overworld]
+[15Jun2025 06:48:01.409] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 06:51:02.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 06:51:02.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 06:52:02.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Vindicator
+[15Jun2025 06:52:02.382] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3074, y:92, z:1324, dim:minecraft:overworld]
+[15Jun2025 06:52:02.401] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 06:52:21.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Vindicator
+[15Jun2025 06:52:21.034] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3071, y:92, z:1326, dim:minecraft:overworld]
+[15Jun2025 06:52:21.056] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 06:52:45.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Good Demoman]
+[15Jun2025 06:53:00.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.830] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.831] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.831] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.831] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.831] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.831] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.831] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.831] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:00.831] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:53:06.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Vindicator
+[15Jun2025 06:53:06.584] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3046, y:92, z:1292, dim:minecraft:overworld]
+[15Jun2025 06:53:06.605] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 06:53:21.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Vex
+[15Jun2025 06:53:21.042] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3042, y:92, z:1294, dim:minecraft:overworld]
+[15Jun2025 06:53:21.057] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 06:53:41.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Vindicator
+[15Jun2025 06:53:41.430] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3046, y:92, z:1303, dim:minecraft:overworld]
+[15Jun2025 06:53:41.453] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 06:55:52.828] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.828] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.828] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.828] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.828] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.828] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.828] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.828] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:55:52.829] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:02.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 06:56:02.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 06:56:14.727] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.727] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.727] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.727] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.727] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.727] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.727] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.727] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:14.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.732] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:16.733] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.728] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:33.729] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:56:56.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Vindicator
+[15Jun2025 06:56:56.531] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3053, y:103, z:1328, dim:minecraft:overworld]
+[15Jun2025 06:56:56.545] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 06:57:07.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Vindicator
+[15Jun2025 06:57:07.284] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3053, y:103, z:1328, dim:minecraft:overworld]
+[15Jun2025 06:57:07.302] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 06:57:16.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Vindicator
+[15Jun2025 06:57:16.180] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3052, y:103, z:1329, dim:minecraft:overworld]
+[15Jun2025 06:57:16.202] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 06:57:32.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was blown up by Creeper
+[15Jun2025 06:57:32.938] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3059, y:103, z:1332, dim:minecraft:overworld]
+[15Jun2025 06:57:32.955] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 06:57:52.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Vindicator
+[15Jun2025 06:57:52.730] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3042, y:103, z:1331, dim:minecraft:overworld]
+[15Jun2025 06:57:52.749] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.927] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.928] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.928] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.928] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.928] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.928] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.928] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.928] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.928] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:58:29.928] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[15Jun2025 06:59:21.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was blown up by Creeper
+[15Jun2025 06:59:21.133] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3070, y:84, z:1290, dim:minecraft:overworld]
+[15Jun2025 06:59:21.151] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:01:02.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 07:01:02.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 07:04:29.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was frozen by Ice Dragon
+[15Jun2025 07:04:29.680] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3146, y:167, z:1685, dim:minecraft:overworld]
+[15Jun2025 07:04:29.689] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:05:02.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Ice Dragon
+[15Jun2025 07:05:02.631] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3137, y:170, z:1668, dim:minecraft:overworld]
+[15Jun2025 07:05:02.643] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:05:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Ice Dragon
+[15Jun2025 07:05:15.585] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3136, y:169, z:1670, dim:minecraft:overworld]
+[15Jun2025 07:05:15.597] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:05:32.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Ice Dragon
+[15Jun2025 07:05:32.230] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3136, y:172, z:1672, dim:minecraft:overworld]
+[15Jun2025 07:05:32.241] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:05:47.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Scarlet Persecutor
+[15Jun2025 07:05:47.989] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3138, y:171, z:1663, dim:minecraft:overworld]
+[15Jun2025 07:05:47.994] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:06:02.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 07:06:02.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 07:06:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 withered away
+[15Jun2025 07:06:54.343] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3132, y:172, z:1662, dim:minecraft:overworld]
+[15Jun2025 07:06:54.346] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:07:01.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [A Flaming Sword]
+[15Jun2025 07:07:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [A Flaming Sword]
+[15Jun2025 07:11:02.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jun2025 07:11:02.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jun2025 07:13:08.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 blew up
+[15Jun2025 07:13:08.387] [Server thread/DEBUG] [tombstone/]: A new grave of the player tumama3000 was created at position [x:-3310, y:232, z:1669, dim:minecraft:overworld]
+[15Jun2025 07:13:08.392] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:13:33.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxfrankxX02> XD
+[15Jun2025 07:13:44.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made XxfrankxX02 a server operator
+[15Jun2025 07:13:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxfrankxX02: Teleported tumama3000 to XxfrankxX02]
+[15Jun2025 07:14:17.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 liquified to Fanta juice
+[15Jun2025 07:14:17.336] [Server thread/DEBUG] [tombstone/]: A new grave of the player XxfrankxX02 was created at position [x:-3308, y:216, z:1663, dim:minecraft:overworld]
+[15Jun2025 07:14:17.337] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
