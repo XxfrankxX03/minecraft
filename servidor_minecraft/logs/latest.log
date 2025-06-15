@@ -2872,3 +2872,58 @@ java.lang.NullPointerException: Element not found: amount
 [15Jun2025 07:13:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxfrankxX02: Teleported tumama3000 to XxfrankxX02]
 [15Jun2025 07:14:17.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 liquified to Fanta juice
 [15Jun2025 07:14:17.337] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:15:36.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has reached the goal [Postmortal]
+[15Jun2025 07:15:36.852] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:15:58.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Junior Summoner]
+[15Jun2025 07:16:02.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Lifestealer
+[15Jun2025 07:16:02.591] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:16:09.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Lifestealer
+[15Jun2025 07:16:09.488] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:16:14.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Lifestealer
+[15Jun2025 07:16:14.850] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:16:21.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has reached the goal [Horror Under the Mantle]
+[15Jun2025 07:16:25.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 withered away
+[15Jun2025 07:16:25.436] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:17:43.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3233, y=216, z=1672} BlockPos{x=-3232, y=215, z=1673}
+[15Jun2025 07:21:35.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/30322, l='ServerLevel[world]', x=-3326.36, y=225.75, z=1638.16] died: Honeyed Archer was slain by tumama3000
+[15Jun2025 07:22:41.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has completed the challenge [Yo mama so fat, she digests her kids]
+[15Jun2025 07:24:27.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has completed the challenge [Unfunny dad jokes]
+[15Jun2025 07:24:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [First big catch of the month!]
+[15Jun2025 07:25:34.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [Dragon Commander]
+[15Jun2025 07:26:38.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [My Name is Nobody]
+[15Jun2025 07:29:34.846] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/32782, l='ServerLevel[world]', x=-3629.99, y=38.60, z=1151.80]
+[15Jun2025 07:29:34.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/32783, l='ServerLevel[world]', x=-3629.99, y=38.60, z=1151.80]
+[15Jun2025 07:29:34.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/32784, l='ServerLevel[world]', x=-3629.99, y=38.60, z=1151.80]
+[15Jun2025 07:29:34.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/32785, l='ServerLevel[world]', x=-3629.99, y=38.60, z=1151.80]
+[15Jun2025 07:29:34.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/32786, l='ServerLevel[world]', x=-3629.99, y=38.60, z=1151.80]
+[15Jun2025 07:30:01.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has completed the challenge [Well, that was disgusting]
+[15Jun2025 07:30:11.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by The Moonflower
+[15Jun2025 07:30:11.390] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:31:17.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [The Wind Darkening]
+[15Jun2025 07:31:43.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Nightmare Stalker
+[15Jun2025 07:31:43.939] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:32:12.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has reached the goal [Fighting Nightmares]
+[15Jun2025 07:32:30.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumama3000> E
+[15Jun2025 07:32:35.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [Life turned out to be a comedy]
+[15Jun2025 07:32:41.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Skeleton Thrasher
+[15Jun2025 07:32:41.754] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:32:43.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxfrankxX02 moved wrongly!
+[15Jun2025 07:33:11.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by The Royal
+[15Jun2025 07:33:11.489] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:33:18.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has completed the challenge [Thine end is here.]
+[15Jun2025 07:34:30.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by The Immortal
+[15Jun2025 07:34:30.498] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:34:37.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was shot by Missionary
+[15Jun2025 07:34:37.189] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 07:34:39.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has reached the goal [Dark Creator]
+[15Jun2025 07:37:56.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of XxfrankxX02) moved wrongly! 0.531376583960764
+[15Jun2025 07:37:56.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of XxfrankxX02) moved wrongly! 0.9173959853399083
+[15Jun2025 07:42:16.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [Chompy]
+[15Jun2025 07:42:24.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 was slain by Crocodile
+[15Jun2025 07:42:24.852] [Server thread/INFO] [tombstone/]: The player tumama3000 has successfully been saved
+[15Jun2025 07:42:28.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Chompy]
+[15Jun2025 07:42:53.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxfrankxX02: Teleported tumama3000 to XxfrankxX02]
+[15Jun2025 07:42:59.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxfrankxX02: Teleported tumama3000 to XxfrankxX02]
+[15Jun2025 07:43:04.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxfrankxX02: Teleported tumama3000 to XxfrankxX02]
+[15Jun2025 07:43:07.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxfrankxX02: Teleported tumama3000 to XxfrankxX02]
+[15Jun2025 07:45:28.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumama3000 has made the advancement [Local Brewery]

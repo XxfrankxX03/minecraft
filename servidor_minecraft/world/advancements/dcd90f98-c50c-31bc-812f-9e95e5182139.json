@@ -383,11 +383,14 @@
       "minecraft:creeper": "2025-06-14 06:21:19 +0000",
       "minecraft:evoker": "2025-06-15 06:56:16 +0000",
       "minecraft:phantom": "2025-06-14 23:37:43 +0000",
+      "minecraft:witch": "2025-06-15 07:15:27 +0000",
       "minecraft:wither_skeleton": "2025-06-14 23:30:24 +0000",
       "minecraft:husk": "2025-06-14 07:31:44 +0000",
       "minecraft:enderman": "2025-06-14 23:55:23 +0000",
+      "minecraft:silverfish": "2025-06-15 07:13:11 +0000",
       "minecraft:vex": "2025-06-15 06:56:15 +0000",
-      "minecraft:zombie": "2025-06-14 05:56:19 +0000"
+      "minecraft:zombie": "2025-06-14 05:56:19 +0000",
+      "minecraft:zombie_villager": "2025-06-15 07:33:46 +0000"
     },
     "done": false
   },
@@ -2755,6 +2758,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-06-15 07:30:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2025-06-15 07:34:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-15 07:05:45 +0000"
@@ -2767,9 +2782,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-15 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-15 07:26:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-06-15 06:25:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-06-15 07:16:21 +0000"
     },
     "done": true
   },
@@ -2782,6 +2815,30 @@
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-06-15 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-06-15 07:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-15 07:30:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-06-15 07:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 07:30:18 +0000"
     },
     "done": true
   },
@@ -2814,6 +2871,18 @@
       "in_pyramid_flower_forest": "2025-06-15 06:50:03 +0000"
     },
     "done": false
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-06-15 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 07:30:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
@@ -2866,6 +2935,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-06-15 07:05:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-06-15 07:15:58 +0000"
     },
     "done": true
   },
