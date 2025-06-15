@@ -14,3 +14,39 @@
 [15Jun2025 00:10:46.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 blew up
 [15Jun2025 00:10:46.526] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
 [15Jun2025 00:11:32.529] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Jun2025 00:12:14.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has completed the challenge [Village Defender]
+[15Jun2025 00:13:44.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:13:46.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:13:48.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:13:50.906] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:13:53.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:13:55.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:13:57.507] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:13:59.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:14:01.906] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:14:04.106] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:14:06.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:14:08.509] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:14:10.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:14:12.906] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:14:15.106] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:14:17.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:15:47.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:15:47.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:15:48.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:15:48.109] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:15:48.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:15:48.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:15:48.409] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:15:48.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jun2025 00:16:49.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has reached the goal [Flawless Crystals]
+[15Jun2025 00:16:57.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was shot by Pillager
+[15Jun2025 00:16:57.882] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 00:20:23.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was struck with lightning by Lightning Dragon
+[15Jun2025 00:20:23.570] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 00:20:42.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was struck with lightning by Lightning Dragon
+[15Jun2025 00:20:42.369] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[15Jun2025 00:20:42.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxfrankxX02 moved wrongly!
+[15Jun2025 00:20:58.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 has made the advancement [Dragonslayer]
+[15Jun2025 00:21:45.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxfrankxX02 lost connection: Disconnected
+[15Jun2025 00:21:45.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 left the game
