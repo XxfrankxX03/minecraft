@@ -1704,79 +1704,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-15 00:20:52 +0000",
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-15 00:20:52 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-06-14 22:19:04 +0000"
@@ -1789,21 +1716,45 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/combat/diamond_knife": {
+  "alexsmobs:alexsmobs/emu": {
     "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
+      "killed_by": "2025-06-14 22:29:54 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/misc/copper_ingot": {
+  "skilltree:recipes/misc/golden_ring": {
     "criteria": {
-      "has_nuggets_copper": "2025-06-15 00:20:48 +0000"
+      "has_nuggets_gold": "2025-06-14 22:32:41 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_helmet": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_item": "2025-06-15 00:21:12 +0000"
+      "has_gold_nugget": "2025-06-14 22:32:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-14 22:32:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-06-14 22:32:41 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-06-14 22:32:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-06-14 22:32:41 +0000"
     },
     "done": true
   },
@@ -1825,87 +1776,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/golden_ring": {
-    "criteria": {
-      "has_nuggets_gold": "2025-06-14 22:32:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-06-14 23:22:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:daddy": {
-    "criteria": {
-      "daddy_0": "2025-06-14 23:22:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_helmet": {
-    "criteria": {
-      "has_item": "2025-06-14 23:22:44 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-06-14 22:51:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-14 23:45:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-06-14 22:36:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-15 00:10:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_leggings": {
-    "criteria": {
-      "has_item": "2025-06-14 23:22:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 22:33:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-14 23:16:41 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed_by": "2025-06-14 22:29:54 +0000"
     },
     "done": true
   },
@@ -1915,63 +1788,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2025-06-14 23:13:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 22:33:04 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/silent_quiver": {
-    "criteria": {
-      "has_feather": "2025-06-14 22:58:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-06-14 22:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_helmet": {
-    "criteria": {
-      "has_item": "2025-06-15 00:01:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-06-15 00:19:50 +0000"
     },
     "done": true
   },
@@ -1981,153 +1800,9 @@
     },
     "done": true
   },
-  "apotheosis:affix/mythic_gem": {
-    "criteria": {
-      "gem": "2025-06-15 00:16:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-14 22:32:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-06-14 23:41:12 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-06-14 23:49:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
-    "criteria": {
-      "has_sandstone_slab": "2025-06-15 00:18:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
-    "criteria": {
-      "has_dragonscales_copper": "2025-06-15 00:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-06-14 22:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 22:33:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-14 23:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-06-15 00:12:07 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat_0": "2025-06-14 23:22:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-06-15 00:10:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-14 23:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-06-14 22:36:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-06-15 00:03:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-06-15 00:19:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-06-15 00:12:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-14 22:32:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-06-15 00:10:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-14 23:16:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-06-15 00:12:07 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
-    "criteria": {
-      "killed_by": "2025-06-14 23:13:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_boots": {
-    "criteria": {
-      "has_item": "2025-06-15 00:21:12 +0000"
     },
     "done": true
   },
@@ -2137,279 +1812,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-06-14 22:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-15 00:10:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-14 23:19:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-06-15 00:07:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-14 23:16:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-14 22:59:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-14 23:22:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-06-15 00:10:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-06-14 23:10:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-14 23:16:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-06-15 00:08:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-06-14 22:35:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2025-06-14 22:32:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_lightning_dragon": "2025-06-15 00:20:58 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-06-14 22:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-06-15 00:08:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-14 22:59:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-15 00:01:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-06-14 22:52:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-06-14 23:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-06-14 23:51:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-06-15 00:20:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_boots": {
-    "criteria": {
-      "has_item": "2025-06-14 23:19:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": "2025-06-14 22:43:50 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/simple_necklace": {
-    "criteria": {
-      "has_nuggets_gold": "2025-06-14 22:32:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-06-14 23:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-06-14 22:33:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-14 23:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-06-14 23:08:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-06-14 22:36:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/amphithere_macuahuitl": {
-    "criteria": {
-      "has_item": "2025-06-14 23:00:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-06-14 22:45:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-14 22:33:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-06-14 23:41:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-14 22:59:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-06-15 00:20:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-15 00:21:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_leggings": {
-    "criteria": {
-      "has_item": "2025-06-14 23:19:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-06-15 00:07:20 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/diamond_quiver": {
-    "criteria": {
-      "has_gems_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-06-15 00:10:45 +0000"
     },
     "done": true
   },
@@ -2419,33 +1824,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_white_boots": {
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
-      "has_item": "2025-06-14 23:22:44 +0000"
+      "has_gravel": "2025-06-14 22:33:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather": {
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
-      "has_rabbit_hide": "2025-06-15 00:12:07 +0000"
+      "has_gravel": "2025-06-14 22:33:04 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
-      "has_sea_serpent_scales_deepblue": "2025-06-15 00:01:54 +0000"
+      "has_gravel": "2025-06-14 22:33:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
-      "has_planks": "2025-06-14 23:41:12 +0000"
+      "has_gravel": "2025-06-14 22:33:04 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_sea_serpent": {
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
-      "killed_fire_dragon": "2025-06-15 00:01:50 +0000"
+      "has_gravel": "2025-06-14 22:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-06-14 22:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-14 22:33:55 +0000"
     },
     "done": true
   },
@@ -2455,27 +1872,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_spider_eye": "2025-06-14 23:28:24 +0000"
+      "has_slime_ball": "2025-06-14 22:33:55 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/amphithere_arrow": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "has_item": "2025-06-14 23:00:17 +0000"
+      "has_bone_block": "2025-06-14 22:35:26 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_helmet": {
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
-      "has_item": "2025-06-14 23:19:56 +0000"
+      "has_pumpkin": "2025-06-14 22:36:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_lily_of_the_valley": "2025-06-15 00:10:45 +0000"
+      "has_pumpkin": "2025-06-14 22:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-14 22:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-06-14 22:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-14 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-14 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-14 22:45:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-06-14 22:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-14 22:48:45 +0000"
     },
     "done": true
   },
@@ -2485,27 +1950,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "has_gravel": "2025-06-14 22:33:04 +0000"
+      "coded_trigger": "2025-06-14 22:51:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
+      "has_apple": "2025-06-14 22:52:00 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_conqueror": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "location0": "2025-06-14 23:29:23 +0000"
+      "voluntary_exile": "2025-06-14 22:55:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_obsidian": "2025-06-14 23:46:01 +0000"
+      "has_hay_block": "2025-06-14 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-14 22:56:47 +0000"
     },
     "done": true
   },
@@ -2515,33 +1986,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+  "skilltree:recipes/combat/silent_quiver": {
     "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
+      "has_feather": "2025-06-14 22:58:58 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/misc/scholar_necklace": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_ender_pearl": "2025-06-14 23:55:23 +0000"
+      "has_feather": "2025-06-14 22:58:58 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/village_defender": {
+  "skilltree:recipes/misc/traveler_necklace": {
     "criteria": {
-      "coded_trigger": "2025-06-15 00:12:14 +0000"
+      "has_feather": "2025-06-14 22:58:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_helmet": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
+      "has_cut_sandstone": "2025-06-14 22:59:47 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
-      "killed_by": "2025-06-14 23:20:57 +0000"
+      "has_cut_sandstone": "2025-06-14 22:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-14 22:59:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/crime_in_town": {
+    "criteria": {
+      "coded_trigger": "2025-06-14 23:00:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-06-14 23:00:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-06-14 23:00:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:naughty_child": {
+    "criteria": {
+      "naughty_child_0": "2025-06-14 23:00:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:wrong_santa": {
+    "criteria": {
+      "wrong_santa_0": "2025-06-14 23:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-14 23:08:09 +0000"
     },
     "done": true
   },
@@ -2557,51 +2070,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
+      "has_enchanted_golden_apple": "2025-06-14 23:08:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+  "minecraft:recipes/misc/green_dye": {
     "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
+      "has_cactus": "2025-06-14 23:10:31 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
-      "obsidian": "2025-06-14 23:46:01 +0000"
+      "killed_by": "2025-06-14 23:13:31 +0000"
     },
     "done": true
   },
-  "repurposed_structures:outposts": {
+  "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
-      "in_outpost_desert": "2025-06-15 00:16:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-06-14 22:48:45 +0000"
+      "killed": "2025-06-14 23:13:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "has_carrot": "2025-06-14 23:45:26 +0000"
+      "killed_fire_dragon": "2025-06-14 23:16:31 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/food/gold_pile": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "has_item": "2025-06-14 22:32:41 +0000"
+      "has_prismarine_crystals": "2025-06-14 23:16:35 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:naughty_child": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "naughty_child_0": "2025-06-14 23:00:17 +0000"
+      "has_prismarine_shard": "2025-06-14 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-14 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-14 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-14 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-06-14 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-06-14 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-06-14 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-06-14 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-06-14 23:22:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-06-14 23:22:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-06-14 23:22:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-14 23:22:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-06-14 23:22:44 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-06-14 23:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-14 23:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-14 23:28:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-06-14 23:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-14 23:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-14 23:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-14 23:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-14 23:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-14 23:41:12 +0000"
     },
     "done": true
   },
@@ -2617,141 +2250,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-14 22:33:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-14 23:41:12 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/traveler_necklace": {
-    "criteria": {
-      "has_feather": "2025-06-14 22:58:58 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/copper_ring": {
-    "criteria": {
-      "has_nuggets_copper": "2025-06-15 00:20:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
-    "criteria": {
-      "has_item": "2025-06-15 00:01:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-06-14 22:45:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_aquatic_life": {
-    "criteria": {
-      "has_magic_scroll": "2025-06-14 23:49:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-06-14 22:33:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
-    "criteria": {
-      "has_item": "2025-06-15 00:01:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-14 22:33:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough": {
-    "criteria": {
-      "has_wheat": "2025-06-15 00:08:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-14 23:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-14 22:33:04 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:wrong_santa": {
-    "criteria": {
-      "wrong_santa_0": "2025-06-14 23:07:51 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-06-14 23:49:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/crime_in_town": {
-    "criteria": {
-      "coded_trigger": "2025-06-14 23:00:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-06-15 00:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-06-14 22:56:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-06-15 00:08:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-06-14 22:33:04 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-06-14 23:48:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-06-14 23:46:01 +0000"
     },
     "done": true
   },
@@ -2761,39 +2262,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
-      "has_item": "2025-06-14 22:45:35 +0000"
+      "has_any_ingredient": "2025-06-14 23:45:26 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
-      "diamond": "2025-06-14 23:48:09 +0000"
+      "has_any_ingredient": "2025-06-14 23:45:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
-      "has_iron_block": "2025-06-14 22:48:45 +0000"
+      "has_any_ingredient": "2025-06-14 23:45:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+  "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
-      "has_gravel": "2025-06-14 22:33:04 +0000"
+      "has_any_ingredient": "2025-06-14 23:45:26 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_copper_backpack": "2025-06-15 00:16:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2025-06-14 23:48:09 +0000"
+      "has_carrot": "2025-06-14 23:45:26 +0000"
     },
     "done": true
   },
@@ -2803,9 +2298,111 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_item": "2025-06-15 00:21:12 +0000"
+      "has_obsidian": "2025-06-14 23:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-14 23:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-14 23:46:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/diamond_quiver": {
+    "criteria": {
+      "has_gems_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-14 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-14 23:48:24 +0000"
     },
     "done": true
   },
@@ -2815,9 +2412,357 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "tombstone:adventure/use_aquatic_life": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-06-14 23:08:30 +0000"
+      "has_magic_scroll": "2025-06-14 23:49:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-14 23:49:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-14 23:49:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-14 23:51:18 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-14 23:55:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-15 00:01:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-15 00:01:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-15 00:01:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-06-15 00:01:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-15 00:01:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-06-15 00:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-06-15 00:03:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-15 00:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-15 00:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-15 00:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-15 00:08:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-06-15 00:08:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-06-15 00:08:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-06-15 00:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-06-15 00:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-15 00:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-15 00:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-15 00:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-15 00:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-15 00:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-15 00:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-15 00:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-15 00:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-15 00:12:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-06-15 00:12:14 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_desert": "2025-06-15 00:16:21 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-15 00:16:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-06-15 00:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-15 00:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-06-15 00:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-15 00:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-06-15 00:19:50 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_nuggets_copper": "2025-06-15 00:20:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-06-15 00:20:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-06-15 00:20:48 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_ring": {
+    "criteria": {
+      "has_nuggets_copper": "2025-06-15 00:20:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-06-15 00:20:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-06-15 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-06-15 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-06-15 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-15 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-06-15 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-06-15 06:25:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-15 06:27:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-15 06:27:13 +0000"
     },
     "done": true
   },
