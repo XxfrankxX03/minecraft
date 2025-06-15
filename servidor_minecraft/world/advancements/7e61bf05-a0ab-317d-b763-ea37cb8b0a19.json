@@ -274,8 +274,11 @@
       "minecraft:skeleton": "2025-06-14 05:55:11 +0000",
       "minecraft:hoglin": "2025-06-14 23:30:51 +0000",
       "minecraft:vindicator": "2025-06-14 06:16:57 +0000",
+      "minecraft:spider": "2025-06-15 00:04:52 +0000",
+      "minecraft:creeper": "2025-06-15 00:04:22 +0000",
       "minecraft:phantom": "2025-06-14 23:37:40 +0000",
       "minecraft:wither_skeleton": "2025-06-14 23:30:40 +0000",
+      "minecraft:husk": "2025-06-15 00:04:18 +0000",
       "minecraft:zombie": "2025-06-14 06:31:03 +0000",
       "minecraft:zombie_villager": "2025-06-14 23:35:43 +0000"
     },
@@ -623,11 +626,13 @@
       "cooked_mutton": "2025-06-14 07:14:56 +0000",
       "cooked_beef": "2025-06-14 07:33:37 +0000",
       "tropical_fish": "2025-06-14 22:36:04 +0000",
+      "pumpkin_pie": "2025-06-15 00:04:33 +0000",
       "mutton": "2025-06-14 23:07:18 +0000",
       "bread": "2025-06-14 06:22:20 +0000",
       "golden_apple": "2025-06-14 23:34:32 +0000",
       "rotten_flesh": "2025-06-14 06:23:30 +0000",
       "melon_slice": "2025-06-14 06:27:26 +0000",
+      "golden_carrot": "2025-06-15 00:05:40 +0000",
       "carrot": "2025-06-14 22:57:13 +0000"
     },
     "done": false
@@ -1772,6 +1777,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-15 00:05:52 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-06-14 22:40:49 +0000"
@@ -2102,6 +2179,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-06-15 00:05:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-14 23:29:26 +0000"
@@ -2117,6 +2200,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-14 22:50:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-15 00:01:53 +0000"
     },
     "done": true
   },
@@ -2159,6 +2248,12 @@
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-06-14 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-06-15 00:04:46 +0000"
     },
     "done": true
   },
@@ -2264,6 +2359,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-15 00:01:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-06-14 23:03:21 +0000"
@@ -2315,6 +2416,12 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-06-14 23:44:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-06-15 00:05:10 +0000"
     },
     "done": true
   },
