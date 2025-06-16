@@ -2829,3 +2829,17 @@ java.lang.NullPointerException: Element not found: amount
 [16Jun2025 05:32:09.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11391ms or 227 ticks behind
 [16Jun2025 05:33:14.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Nightmare Stalker
 [16Jun2025 05:33:14.563] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[16Jun2025 05:39:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was turned to ice by Ice Dragon
+[16Jun2025 05:39:37.564] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[16Jun2025 05:40:08.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was frozen by Ice Dragon
+[16Jun2025 05:40:08.158] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[16Jun2025 05:40:29.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxfrankxX02 was slain by Ice Dragon
+[16Jun2025 05:40:29.908] [Server thread/INFO] [tombstone/]: The player XxfrankxX02 has successfully been saved
+[16Jun2025 05:44:10.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/19663, l='ServerLevel[world]', x=-3077.40, y=158.00, z=4284.03] died, message: 'Armorer was slain by XxfrankxX02'
+[16Jun2025 05:44:38.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/19711, l='ServerLevel[world]', x=-3046.49, y=166.00, z=4280.48] died, message: 'Armorer was slain by XxfrankxX02'
+[16Jun2025 05:44:42.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/19753, l='ServerLevel[world]', x=-3036.86, y=167.00, z=4274.16] died, message: 'Weaponsmith was slain by XxfrankxX02'
+[16Jun2025 05:44:42.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/19739, l='ServerLevel[world]', x=-3036.45, y=167.05, z=4275.20] died, message: 'Weaponsmith was slain by XxfrankxX02'
+[16Jun2025 05:44:52.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/19740, l='ServerLevel[world]', x=-3046.32, y=166.00, z=4272.38] died, message: 'Weaponsmith was slain by XxfrankxX02'
+[16Jun2025 05:45:35.566] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/19774, l='ServerLevel[world]', x=-3035.70, y=174.00, z=4228.86] died, message: 'Cartographer was slain by XxfrankxX02'
+[16Jun2025 05:46:19.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19771, l='ServerLevel[world]', x=-3027.98, y=168.00, z=4321.39] died, message: 'Nitwit was slain by XxfrankxX02'
+[16Jun2025 05:46:23.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/19754, l='ServerLevel[world]', x=-3039.05, y=172.00, z=4326.49] died, message: 'Mason was slain by XxfrankxX02'
